@@ -45,9 +45,9 @@ session_start();
     <meta name="twitter:image" content="app/content/assets/img/logo.png">
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="app/content/assets/css/animate.css">
-    <link rel="stylesheet" href="app/content/assets/css/core.css">
-    <link rel="stylesheet" href="app/content/assets/css/dark.css">
+    <link rel="stylesheet" href="http://olymcollections.tk/app/content/assets/css/animate.css">
+    <link rel="stylesheet" href="http://olymcollections.tk/app/content/assets/css/core.css">
+    <link rel="stylesheet" href="http://olymcollections.tk/app/content/assets/css/dark.css">
 
 </head>
 
@@ -58,7 +58,7 @@ session_start();
     <header>
         <nav class="navbar">
             <a class="logo" href="#" data-animate="fadeInDown" data-delay=".5">
-                <img src="app/content/assets/img/logo.png" alt="Olym - Logo">
+                <img src="http://olymcollections.tk/app/content/assets/img/logo.png" alt="Olym - Logo">
                 <span>Olym</span>
             </a>
             <button class="om float-left hidden-lg-up">
@@ -77,7 +77,7 @@ session_start();
 
     <div class="content">
         <div class="about" data-animate="fadeInUp" data-delay=".9">
-            <img src="app/content/assets/img/logo.png" alt="Logo">
+            <img src="http://olymcollections.tk/app/content/assets/img/logo.png" alt="Logo">
             <div style="text-align: center;">
                 <h2>LOJA DE PLUGINS</h2>
                 <p>Olá 👋🏻, sejá bem-vindo ao meu site de plugins de minecraft, aqui você pode baixar ou
@@ -88,25 +88,25 @@ session_start();
             <h3 class="header" data-animate="fadeInDown" data-delay=".2">vantagens</h3>
             <div class="cards">
                 <div class="card" data-animate="fadeInUp" data-delay=".2">
-                    <img src="app/content/assets/img/updates.png" alt="Olym - Atualizações">
+                    <img src="http://olymcollections.tk/app/content/assets/img/updates.png" alt="Olym - Atualizações">
                     <h3 class="card-title">atualizações</h3>
                     <p class="card-subtitle">Todos os nossos plugins são atualizados sempre que possível, informando
                         todas as mudanças.</p>
                 </div>
                 <div class="card" data-animate="fadeInUp" data-delay=".3">
-                    <img src="app/content/assets/img/control.png" alt="Olym - Control">
+                    <img src="http://olymcollections.tk/app/content/assets/img/control.png" alt="Olym - Control">
                     <h3 class="card-title">facilidade</h3>
                     <p class="card-subtitle">Através do nosso servidor do Discord você poderá controlar o seu plugin.
                     </p>
                 </div>
                 <div class="card" data-animate="fadeInUp" data-delay=".1">
-                    <img src="app/content/assets/img/security.png" alt="Olym - Segurança">
+                    <img src="http://olymcollections.tk/app/content/assets/img/security.png" alt="Olym - Segurança">
                     <h3 class="card-title">confiabilidade</h3>
                     <p class="card-subtitle">Pode ficar tranquilo! Todos os nossos plugins estarão livres de códigos
                         maliciosos.</p>
                 </div>
                 <div class="card" data-animate="fadeInUp" data-delay=".4">
-                    <img src="app/content/assets/img/support.png" alt="Olym - Suporte">
+                    <img src="http://olymcollections.tk/app/content/assets/img/support.png" alt="Olym - Suporte">
                     <h3 class="card-title">atendimento</h3>
                     <p class="card-subtitle">Nossos clientes tem atendimento priorizado por nosso suporte através do
                         Discord.</p>
@@ -118,37 +118,37 @@ session_start();
                 <h3 class="header" data-animate="fadeInDown" data-delay=".2">meus plugins</h3>
                 <div class="cards">
                     <div class="card" data-animate="fadeInUp" data-delay="0.1">
-                        <img src="app/content/assets/img/plugin.png" alt="Plugin - Logo">
+                        <img src="http://olymcollections.tk/app/content/assets/img/plugin.png" alt="Plugin - Logo">
                         <h3>OlymCore <span>[1.0]</span></h3>
                         <p>Gratuito<br>Já Adquirido!</p>
                         <a href="baixar/OlymCore.jar" class="btn grow" target="_blank">BAIXAR</a>
                     </div>
                     <div class="card" data-animate="fadeInUp" data-delay="0.2">
-                        <img src="app/content/assets/img/plugin.png" alt="Plugin - Logo">
+                        <img src="http://olymcollections.tk/app/content/assets/img/plugin.png" alt="Plugin - Logo">
                         <h3>Nome <span>[Version]</span></h3>
                         <p>Gratuito | ou Pago <br>Valor | ou Adquirido!</br></p>
                         <a href="baixar/NomeDaJar.jar" class="btn grow">BAIXAR</a>
                     </div>
                     <div class="card" data-animate="fadeInUp" data-delay="0.3">
-                        <img src="app/content/assets/img/plugin.png" alt="Plugin - Logo">
+                        <img src="http://olymcollections.tk/app/content/assets/img/plugin.png" alt="Plugin - Logo">
                         <h3>Nome <span>[Version]</span></h3>
                         <p>Gratuito | ou Pago <br>Valor | ou Adquirido!</br></p>
                         <a href="baixar/NomeDaJar.jar" class="btn grow">BAIXAR</a>
                     </div>
                     <div class="card" data-animate="fadeInUp" data-delay="0.3">
-                        <img src="app/content/assets/img/plugin.png" alt="Plugin - Logo">
+                        <img src="http://olymcollections.tk/app/content/assets/img/plugin.png" alt="Plugin - Logo">
                         <h3>Nome <span>[Version]</span></h3>
                         <p>Gratuito | ou Pago <br>Valor | ou Adquirido!</br></p>
                         <a href="https://discord.gg/tBPSESkGcV" class="btn grow">COMPRAR</a>
                     </div>
                     <div class="card" data-animate="fadeInUp" data-delay="0.4">
-                        <img src="app/content/assets/img/plugin.png" alt="Plugin - Logo">
+                        <img src="http://olymcollections.tk/app/content/assets/img/plugin.png" alt="Plugin - Logo">
                         <h3>Nome <span>[Version]</span></h3>
                         <p>Gratuito | ou Pago <br>Valor | ou Adquirido!</br></p>
                         <a href="https://discord.gg/tBPSESkGcV" class="btn grow">COMPRAR</a>
                     </div>
                     <div class="card" data-animate="fadeInUp" data-delay="0.4">
-                        <img src="app/content/assets/img/plugin.png" alt="Plugin - Logo">
+                        <img src="http://olymcollections.tk/app/content/assets/img/plugin.png" alt="Plugin - Logo">
                         <h3>Nome <span>[Version]</span></h3>
                         <p>Gratuito | ou Pago <br>Valor | ou Adquirido!</br></p>
                         <a href="https://discord.gg/tBPSESkGcV" class="btn grow">COMPRAR</a>
@@ -163,9 +163,9 @@ session_start();
         </div>
         </div>
     </footer>
-    <script src="app/content/assets/js/jquery/jquery.js"></script>
-    <script src="app/content/assets/js/waypoint/jquery.waypoints.min.js"></script>
-    <script src="app/content/assets/js/core.js"></script>
+    <script src="http://olymcollections.tk/app/content/assets/js/jquery/jquery.js"></script>
+    <script src="http://olymcollections.tk/app/content/assets/js/waypoint/jquery.waypoints.min.js"></script>
+    <script src="http://olymcollections.tk/app/content/assets/js/core.js"></script>
     <div
         style="text-align: right;position: fixed;z-index:9999999;bottom: 0;width: auto;right: 1%;cursor: pointer;line-height: 0;display:block !important;">
         <a title="Hosted on free web hosting 000webhost.com. Host your own website for FREE." target="_blank"
